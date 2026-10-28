@@ -9,6 +9,7 @@
  the program's compliance with specific Wright STV rules.
 
  Author: Skylar Gurnett
+ 
  Date: January 2026
 
  Current status and limitations: This version is not fully verified against Wright STV rules and tests are ongoing.
