@@ -10,3 +10,5 @@
 
  Author: Skylar Gurnett
  Date: January 2026
+
+ Current status and limitations: This version is not fully verified against Wright STV rules and tests are ongoing.
